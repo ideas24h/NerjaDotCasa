@@ -1,9 +1,7 @@
 items:
-  - text: Menu One
+  - text: Owners
     url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Rentals
-    url: /rentals
+  - text: About Us
+    url: "/about"
+  - text: Posts
+    url: /posts
