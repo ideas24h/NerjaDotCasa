@@ -1,59 +1,33 @@
 ---
-title: El primer  post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
+title: Modern 1 bedroom apartment Plaza Cavana Nerja
+description: A lovely 2nd floor property just 100m from the beautiful Balcón de
+  Europa in the heart of Nerja.
+author: Nerja Casa
 date: 2020-09-01
 tags:
   - Tags
   - from
 ---
-# This is a Heading h1
+From 450 € per week
 
-## This is a Heading h2
+**1 Bed • 1 Bath • Sleeps 2**
 
-###### This is a Heading h6
+**Accommodation**
 
-## Emphasis
+A lovely 2nd floor property just 100m from the beautiful Balcón de Europa in the heart of Nerja. This modern apartment is accessed via an elevator, and comes with access to the roof terrace which boasts panoramic views. All local amenities are within walking distance, with the nearest beach, Playa el Salón. The property comes with fibre optic internet, a smart TV and Air-Conditioning.
 
-*This text will be italic*\
-*This will also be italic*
+\--- Winter rentals available from October to March €750 rent + €80 electricity / month
 
-**This text will be bold**\
-**This will also be bold**
+**\*\*Occupancy is 2 persons\*\***
 
-*You **can** combine them*
+Located in center of Nerja, just 1 minute from Balcón de Europa, you will find this cozy modern and bright 1 bedroom, 1 bathroom apartment with an elevator. It is situated opposite  ´El Salvador´ church, next to Plaza Cavana, and only and only a short walk from multiple restaurants, shops and bars. The nearest beach Playa del Salon, just around the corner. This is a perfect location for those looking for a relaxed holiday.  The property has a stylish, modern, spacious living room if you fancy relaxing after a long tiring day on the beach. There are also 2 x glass doors which open up and give you a small balcony looking to the town centre. The apartment also has access to a communal roof terrace with both mountain and sea views. A table with four chairs is at your disposal on the roof terrace. If you fancy eating in one night there is a fully equipped kitchen and dining table. Air conditioning/Heating and Internet / WIFI incl. in the rental price.
 
-## Lists
+Living Room/Dining Room: 2 seater sofa, coffee table, 2 x foot stalls, dining table with 4 x chair, smart TV, AC, wardrobe
 
-### Unordered
+Bedroom: Double bed, 2x side tables, 2 x side lamps, wardrobe, AC
 
-* Item 1
-* Item 2
+Bathroom: Bathtub, overhead shower, toilet, bidet, sink, large mirror, hairdryer
 
-  * Item 2a
-  * Item 2b
+Kitchen: Free standing combi oven, 2 ring hob, extractor fan, microwave, sink, washing machine, dishwasher, fridge/freezer, kettle, coffee maker, toaster, iron, ironing board, equipped kitchen utensils, cutlery and crockery
 
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+**Important information** Check-in schedule from 16:00 Check-out schedule 10:00 • This accommodation does not accept groups of young people (up to 25 years) • No smoking • No pets allowed
