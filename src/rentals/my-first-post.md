@@ -5,6 +5,9 @@ description: A lovely 2nd floor property just 100m from the beautiful Balcón de
 author: Nerja Casa
 date: 2020-09-01
 price: 99
+images:
+  - https://f.hubspotusercontent10.net/hubfs/1899863/R0155%20Balcon%20de%20Europa/Apartamento-Balcon-de-europa01.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/R0155%20Balcon%20de%20Europa/Apartamento-Balcon-de-europa02.jpg
 tags:
   - Tags
   - from
