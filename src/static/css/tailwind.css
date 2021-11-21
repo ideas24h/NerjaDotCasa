@@ -18,3 +18,13 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
+
+.hero {
+  background: url('https://www.nerja.casa/hubfs/Nerja%20Fotos/Calahonda_Beach.jpg') no-repeat;
+  height: 500px;
+  width: 100%;
+}
+.floating-sub-hero {
+  bottom: -7%;
+  left: 10%;
+}
