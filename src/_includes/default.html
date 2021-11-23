@@ -15,16 +15,19 @@
     {% if prism == true %}
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
-    
+    <script type="text/javascript" src="//unpkg.com/alpinejs" defer ></script>
+
   </head>
   <body>
+    <script type="text/javascript" src="//unpkg.com/alpinejs" defer ></script>
+
     {% include "./partials/navbar.html" %}
 
     {{ content | safe }}
 
     {% include "./partials/footer.html" %}
 
-    <script src="/static/js/alpine.js"></script>
+<!--     <script src="/static/js/alpine.js" defer></script>  --> 
 
     {% if path == "home" %}
       <!-- Netlify Identity Widget -->

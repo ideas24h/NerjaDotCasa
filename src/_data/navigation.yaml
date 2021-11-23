@@ -3,5 +3,4 @@ items:
     url: "/owners"
   - text: About Us
     url: "/about"
-  - text: Rentals
-    url: /rentals
+  

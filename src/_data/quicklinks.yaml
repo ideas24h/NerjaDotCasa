@@ -2,13 +2,13 @@
 links:
   - title: Owners
     url: "/owners"
-    desc: Open source content management for your Git workflow
-  - title: Rentals
+    desc: Owners Info
+  - title: Rentals  
     url: "https://nerjadotcasa.netlify.app/rentals/"
     desc: Pagina de Rentals
   - title: Una casa
     url: "https://nerjadotcasa.netlify.app/posts/my-first-post/"
     desc: Ina casa
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: About Us
+    url: "/about/"
+    desc: about us
