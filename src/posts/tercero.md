@@ -1,5 +1,5 @@
 ---
-title: Tercera casa
+title: Terceo
 description: otra casa
 image: https://f.hubspotusercontent10.net/hubfs/1899863/R0128%20Chimenea/ac544d82-dc77-4334-b94f-845d722682af.jpg 
 author: Nerja Casa

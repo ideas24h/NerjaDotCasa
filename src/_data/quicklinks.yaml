@@ -4,10 +4,10 @@ links:
     url: "/owners"
     desc: Owners Info
   - title: Rentals  
-    url: "https://nerjadotcasa.netlify.app/rentals/"
+    url: "/rentals/"
     desc: Pagina de Rentals
   - title: Una casa
-    url: "https://nerjadotcasa.netlify.app/posts/my-first-post/"
+    url: "/posts/my-first-post/"
     desc: Ina casa
   - title: About Us
     url: "/about/"
