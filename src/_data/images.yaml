@@ -1,0 +1,14 @@
+---
+links:
+  - title: home1
+    srd: "https://www.nerja.casa/hubfs/Nerja%20Fotos/Calahonda_Beach.jpg"
+    alt: Owners Info
+  - title: Rentals  
+    url: "/rentals/"
+    desc: Pagina de Rentals
+  - title: Una casa
+    url: "/posts/my-first-post/"
+    desc: Ina casa
+  - title: About Us
+    url: "/about/"
+    desc: about us
