@@ -7,8 +7,8 @@ links:
     url: "/rentals/"
     desc: Pagina de Rentals
   - title: Una casa
-    url: "/posts/my-first-post/"
-    desc: Ina casa
+    url: "/properties/my-first-post/"
+    desc: Una casa
   - title: About Us
     url: "/about/"
     desc: about us
