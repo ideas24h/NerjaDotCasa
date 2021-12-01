@@ -1,11 +1,18 @@
 ---
-title: Second apartment Modern 1 bedroom apartment Plaza Cavana Nerja
+title: Second apartment 
 description: A lovely 2nd floor property just 100m from the beautiful Balcón de
   Europa in the heart of Nerja.
 image: https://f.hubspotusercontent10.net/hubfs/1899863/R0155%20Balcon%20de%20Europa/Apartamento-Balcon-de-europa01.jpg  
 author: Nerja Casa
 date: 2020-09-01
 price: 199
+images: 
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-03.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-04.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-05.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-06.jpg
 tags:
   - Tags
   - from
