@@ -83,16 +83,16 @@ prism: true
           <h1 class="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">
             <h1 class="font-bold text-5xl">{{title}}</h1>
           </h1>
+          <div>
+            <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="{{ image }}">
+
+          </div>
+
         </div>
-        
-        
-        Aqui viene la imagen
-
-
         <!-- Options -->
         <div class="mt-4 lg:mt-0 lg:row-span-3">
           <h2 class="sr-only">Product information</h2>
-          <p class="text-3xl text-gray-900">from {{price}} € per week</p>
+          <p class="text-3xl text-gray-900"> {{price}}</p>
   
           <!-- Reviews -->
           <div class="mt-6">
@@ -150,7 +150,7 @@ prism: true
                   <label class="-m-0.5 relative p-0.5 rounded-full flex items-center justify-center cursor-pointer focus:outline-none ring-gray-400">
                     <input type="radio" name="color-choice" value="White" class="sr-only" aria-labelledby="color-choice-0-label">
                     <p id="color-choice-0-label" class="sr-only">
-                      White
+                      1 Bed
                     </p>
                     <span aria-hidden="true" class="h-8 w-8 bg-white border border-black border-opacity-10 rounded-full"></span>
                   </label>
@@ -195,24 +195,12 @@ prism: true
                 </legend>
                 <div class="grid grid-cols-4 gap-4 sm:grid-cols-8 lg:grid-cols-4">
                   <!-- Active: "ring-2 ring-indigo-500" -->
-                  <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-gray-50 text-gray-200 cursor-not-allowed">
-                    <input type="radio" name="size-choice" value="XXS" disabled class="sr-only" aria-labelledby="size-choice-0-label">
-                    <p id="size-choice-0-label">
-                      XXS
-                    </p>
-  
-                    <div aria-hidden="true" class="absolute -inset-px rounded-md border-2 border-gray-200 pointer-events-none">
-                      <svg class="absolute inset-0 w-full h-full text-gray-200 stroke-2" viewBox="0 0 100 100" preserveAspectRatio="none" stroke="currentColor">
-                        <line x1="0" y1="100" x2="100" y2="0" vector-effect="non-scaling-stroke" />
-                      </svg>
-                    </div>
-                  </label>
   
                   <!-- Active: "ring-2 ring-indigo-500" -->
                   <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
                     <input type="radio" name="size-choice" value="XS" class="sr-only" aria-labelledby="size-choice-1-label">
                     <p id="size-choice-1-label">
-                      XS
+                      {{ beds }} Bed
                     </p>
   
                     <!--
@@ -226,7 +214,7 @@ prism: true
                   <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
                     <input type="radio" name="size-choice" value="S" class="sr-only" aria-labelledby="size-choice-2-label">
                     <p id="size-choice-2-label">
-                      S
+                      {{baths}} Baths
                     </p>
   
                     <!--
@@ -240,49 +228,7 @@ prism: true
                   <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
                     <input type="radio" name="size-choice" value="M" class="sr-only" aria-labelledby="size-choice-3-label">
                     <p id="size-choice-3-label">
-                      M
-                    </p>
-  
-                    <!--
-                      Active: "border", Not Active: "border-2"
-                      Checked: "border-indigo-500", Not Checked: "border-transparent"
-                    -->
-                    <div class="absolute -inset-px rounded-md pointer-events-none" aria-hidden="true"></div>
-                  </label>
-  
-                  <!-- Active: "ring-2 ring-indigo-500" -->
-                  <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
-                    <input type="radio" name="size-choice" value="L" class="sr-only" aria-labelledby="size-choice-4-label">
-                    <p id="size-choice-4-label">
-                      L
-                    </p>
-  
-                    <!--
-                      Active: "border", Not Active: "border-2"
-                      Checked: "border-indigo-500", Not Checked: "border-transparent"
-                    -->
-                    <div class="absolute -inset-px rounded-md pointer-events-none" aria-hidden="true"></div>
-                  </label>
-  
-                  <!-- Active: "ring-2 ring-indigo-500" -->
-                  <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
-                    <input type="radio" name="size-choice" value="XL" class="sr-only" aria-labelledby="size-choice-5-label">
-                    <p id="size-choice-5-label">
-                      XL
-                    </p>
-  
-                    <!--
-                      Active: "border", Not Active: "border-2"
-                      Checked: "border-indigo-500", Not Checked: "border-transparent"
-                    -->
-                    <div class="absolute -inset-px rounded-md pointer-events-none" aria-hidden="true"></div>
-                  </label>
-  
-                  <!-- Active: "ring-2 ring-indigo-500" -->
-                  <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
-                    <input type="radio" name="size-choice" value="2XL" class="sr-only" aria-labelledby="size-choice-6-label">
-                    <p id="size-choice-6-label">
-                      2XL
+                      {{ sleeps }} Sleeps
                     </p>
   
                     <!--
@@ -324,14 +270,4 @@ prism: true
       </div>
     </div>
   </div>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/alpinejs/2.8.0/alpine.js'></script>
-  <script>
-    Alpine.store = {
-      images: [
-        "https://images.unsplash.com/photo-1444212477490-ca407925329e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
-        "https://images.unsplash.com/photo-1504595403659-9088ce801e29?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
-        "https://images.unsplash.com/photo-1518378188025-22bd89516ee2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
-        "https://images.unsplash.com/photo-1519150268069-c094cfc0b3c8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1378&q=80"
-      ] 
-    };
-  </script>
+ 
