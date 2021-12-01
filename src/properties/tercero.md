@@ -1,11 +1,11 @@
 ---
-title: Tercer Apartamento
+title: Stunning Penthouse in the centre of Nerja
 description: otra casa
-image: https://f.hubspotusercontent10.net/hubfs/1899863/R0128%20Chimenea/ac544d82-dc77-4334-b94f-845d722682af.jpg 
+image: https://f.hubspotusercontent10.net/hubfs/1899863/R0128%20Chimenea/ac544d82-dc77-4334-b94f-845d722682af.jpg
 author: Nerja Casa
 date: 2020-09-01
 price: From 550 € per week
-images: 
+images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-03.jpg
