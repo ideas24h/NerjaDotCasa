@@ -1,12 +1,12 @@
 ---
-title: Second apartment 
+title: Perfect Family Apartment in Acapulco Playa
 description: A lovely 2nd floor property just 100m from the beautiful Balcón de
   Europa in the heart of Nerja.
-image: https://f.hubspotusercontent10.net/hubfs/1899863/R0155%20Balcon%20de%20Europa/Apartamento-Balcon-de-europa01.jpg  
+image: https://app.hubspot.com/files/1899863/?folderId=58481274449&showDetails=58481425056
 author: Nerja Casa
 date: 2020-09-01
-price: 199
-images: 
+price: From €650
+images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-03.jpg
@@ -17,26 +17,37 @@ tags:
   - Tags
   - from
 ---
-From 450 € per week
-
-**1 Bed • 1 Bath • Sleeps 2**
+**2 Bed • 1 Bath • Sleeps 4**
 
 **Accommodation**
 
-A lovely 2nd floor property just 100m from the beautiful Balcón de Europa in the heart of Nerja. This modern apartment is accessed via an elevator, and comes with access to the roof terrace which boasts panoramic views. All local amenities are within walking distance, with the nearest beach, Playa el Salón. The property comes with fibre optic internet, a smart TV and Air-Conditioning.
+2 bedroom apartment in the attractive Acapulco Playa development in the heart of Nerja. Central location, beautiful communal garden and Pool. The Beach, Bars, shops, and restaurants less than 1 minutes walk away. 5 minutes walk to the famous Balcon de Europa.
 
-\--- Winter rentals available from October to March €750 rent + €80 electricity / month
+**Occupancy is 4 persons**
 
-**\*\*Occupancy is 2 persons\*\***
+\--- Winter rentals available from October to March €850 rent + €110 electricity / month (check conditions)
 
-Located in center of Nerja, just 1 minute from Balcón de Europa, you will find this cozy modern and bright 1 bedroom, 1 bathroom apartment with an elevator. It is situated opposite  ´El Salvador´ church, next to Plaza Cavana, and only and only a short walk from multiple restaurants, shops and bars. The nearest beach Playa del Salon, just around the corner. This is a perfect location for those looking for a relaxed holiday.  The property has a stylish, modern, spacious living room if you fancy relaxing after a long tiring day on the beach. There are also 2 x glass doors which open up and give you a small balcony looking to the town centre. The apartment also has access to a communal roof terrace with both mountain and sea views. A table with four chairs is at your disposal on the roof terrace. If you fancy eating in one night there is a fully equipped kitchen and dining table. Air conditioning/Heating and Internet / WIFI incl. in the rental price.
+**\*\*Occupancy is 4 persons\*\***
 
-Living Room/Dining Room: 2 seater sofa, coffee table, 2 x foot stalls, dining table with 4 x chair, smart TV, AC, wardrobe
+This ground floor apartment is located in central location, 
+perfect for families with small children. Fully equipped kitchen with breakfast bar, large lounge / dining room private terrace with direct access to the commual pool and garden.  2 bedrooms and 1 bathroom. 
 
-Bedroom: Double bed, 2x side tables, 2 x side lamps, wardrobe, AC
+Outside:
+Communal pool and garden with  stunning views to the sea, private terrace with table and chairs and private sun loungers. 
 
-Bathroom: Bathtub, overhead shower, toilet, bidet, sink, large mirror, hairdryer
+Living Room: 
+Two sofas, coffee table, TV with international channels,  chest of drawers, dining table with chairs, access to private terrace, ceiling fan and AC available. 
 
-Kitchen: Free standing combi oven, 2 ring hob, extractor fan, microwave, sink, washing machine, dishwasher, fridge/freezer, kettle, coffee maker, toaster, iron, ironing board, equipped kitchen utensils, cutlery and crockery
+Open Plan Kitchen: 
+Electric oven and hob, fridge, electric toaster and kettle,  microwave, washing machine, breakfast bar, iron, ironing board, hoover
+
+Bedroom 1: 
+Double bed, bedside table, built in wardrobe with mirrors, chest of drawers, AC unit 
+
+Bedroom 2: 
+Twin beds, bedside table, built in wardrobe, mirror, ceiling fan, AC unit 
+
+Bathroom
+Large walk in shower, sink, mirror and WC
 
 **Important information** Check-in schedule from 16:00 Check-out schedule 10:00 • This accommodation does not accept groups of young people (up to 25 years) • No smoking • No pets allowed
