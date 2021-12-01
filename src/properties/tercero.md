@@ -5,6 +5,9 @@ image: https://f.hubspotusercontent10.net/hubfs/1899863/R0128%20Chimenea/ac544d8
 author: Nerja Casa
 date: 2020-09-01
 price: From 550 € per week
+code: A0123
+beds: "1"
+baths: "1"
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
@@ -12,9 +15,9 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-04.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-05.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-06.jpg
+sleeps: "2"
 tags:
-  - Tags
-  - from
+  - Nerja centre
 ---
 From 550 € per week
 
