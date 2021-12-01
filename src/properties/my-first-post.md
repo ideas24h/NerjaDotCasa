@@ -2,12 +2,12 @@
 title: Modern 1 bedroom apartment Plaza Cavana Nerja
 description: A lovely 2nd floor property just 100m from the beautiful Balcón de
   Europa in the heart of Nerja.
-code: A0155
 image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
 author: Nerja Casa
 date: 2020-09-01
-price: 99
-images: 
+price: From €450
+code: A0155
+images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-03.jpg
@@ -26,7 +26,7 @@ From 450 € per week
 
 A lovely 2nd floor property just 100m from the beautiful Balcón de Europa in the heart of Nerja. This modern apartment is accessed via an elevator, and comes with access to the roof terrace which boasts panoramic views. All local amenities are within walking distance, with the nearest beach, Playa el Salón. The property comes with fibre optic internet, a smart TV and Air-Conditioning.
 
-\--- Winter rentals available from October to March €750 rent + €80 electricity / month
+\--- Winter rentals available from October to March €750 rent + €80 electricity / month (check conditions)
 
 **\*\*Occupancy is 2 persons\*\***
 
