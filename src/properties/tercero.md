@@ -1,10 +1,15 @@
 ---
 title: Stunning Penthouse in the centre of Nerja
-description: otra casa
-image: https://f.hubspotusercontent10.net/hubfs/1899863/R0128%20Chimenea/ac544d82-dc77-4334-b94f-845d722682af.jpg
+description: A stunning 3 bedroom penthouse in the centre of Nerja. Private roof
+  terrace with Jacuzzi and separate kitchen. Stunning views over Nerja, the sea
+  and mountains. The property is furnished to a high standard and modern style.
+  Private underground parking with lift to the front door. High speed Internet
+  and Air conditioning (in each room) included in the rental price  ** Ideal for
+  5 people, maximum occupancy 6 people**
+image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image01.jpg
 author: Nerja Casa
 date: 2020-09-01
-price: From 550 € per week
+price: From 950 € per week
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
@@ -16,20 +21,38 @@ tags:
   - Tags
   - from
 ---
-From 550 € per week
-
-**1 Bed • 1 Bath • Sleeps 2**
+**3 Bed • 2 Bath • Sleeps 5**
 
 **Accommodation**
 
-Asdfsdaffsadfthe rental price.
+A fantastic penthouse located on the west side of Nerja.
+Short walking distance to the beach, shops restaurants and authentic tapas bars. Lounge and master bedroom are south facing with sea views.  The penthouse provides 3 bedrooms and 2 bathrooms. 
 
-Living Room/Dining Room: 2 seater sofa, coffee table, 2 x foot stalls, dining table with 4 x chair, smart TV, AC, wardrobe
+Outside:
+South facing roof terrace with Jacuzzi, sun loungers, parasol, outside table and chairs, BBQ, outside shower, and roof kitchen area, small balcony from lounge with table and two chairs. 
 
-Bedroom: Double bed, 2x side tables, 2 x side lamps, wardrobe, AC
+Lounge / dining room:
+Sofa, armchairs, coffee table, wall mounted flat screen TV, Glass dining table with chairs, access to a small balcony, AC 
 
-Bathroom: Bathtub, overhead shower, toilet, bidet, sink, large mirror, hairdryer
+Kitchen:
+Fully equipped with fridge / freezer, oven, hob, extractor fan, dishwasher, microwave, kettle, toaster
 
-Kitchen: Free standing combi oven, 2 ring hob, extractor fan, microwave, sink, washing machine, dishwasher, fridge/freezer, kettle, coffee maker, toaster, iron, ironing board, equipped kitchen utensils, cutlery and crockery
+Utility room:
+Washing machine and dryer, iron and ironing board
+
+Master bedroom:
+Double bed (1.90 x 1.50) with bedside tables and reading lights, chest of drawers, wall mounted mirrors, built in wardrobes with sliding doors, AC 
+
+Bedroom 2:
+Twin beds (1.90 x 0.90) with bedside table and reading light, wall mounted mirror, built in wardobes with sliding doors, AC
+
+Bedroom 3:
+Bunk bed (1.90 x 0.90), bedside table with reading light, wall mounted mirror, free standing wardrobe, AC 
+
+Bathroom 1:
+Large walk in shower with glass shower screen, modern sink unit with storage, mirror, WC
+
+Bathroom 2:
+Corner walk in shower with glass sliding doors, modern sink unit with storage and mirror, WC
 
 **Important information** Check-in schedule from 16:00 Check-out schedule 10:00 • This accommodation does not accept groups of young people (up to 25 years) • No smoking • No pets allowed
