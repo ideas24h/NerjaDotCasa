@@ -6,6 +6,9 @@ image: https://app.hubspot.com/files/1899863/?folderId=58481274449&showDetails=5
 author: Nerja Casa
 date: 2020-09-01
 price: From €650
+code: A0123
+beds: "3"
+baths: "2"
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
@@ -13,12 +16,12 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-04.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-05.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-06.jpg
+sleeps: "5"
 tags:
-  - Tags
-  - from
+  - Torrecilla
+  - Nerja centre
+  - Playazo
 ---
-**2 Bed • 1 Bath • Sleeps 4**
-
 **Accommodation**
 
 2 bedroom apartment in the attractive Acapulco Playa development in the heart of Nerja. Central location, beautiful communal garden and Pool. The Beach, Bars, shops, and restaurants less than 1 minutes walk away. 5 minutes walk to the famous Balcon de Europa.
