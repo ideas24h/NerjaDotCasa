@@ -7,6 +7,8 @@ author: Nerja Casa
 date: 2020-09-01
 price: From €450
 code: A0155
+beds: "1"
+baths: "1"
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
@@ -14,6 +16,7 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-04.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-05.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-06.jpg
+sleeps: "2"
 tags:
   - Tags
   - from
