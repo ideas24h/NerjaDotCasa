@@ -6,27 +6,11 @@ path: home
 
 <div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
   
-  		<!-- hero -->
-      <div class="w-full py-24 px-6 bg-cover bg-no-repeat bg-center relative z-10" style="background-image: url('https://www.nerja.casa/hubfs/Nerja%20Fotos/Calahonda_Beach.jpg');">
-		
-        <div class="container max-w-4xl mx-auto text-center">
-          <h1>
-
-            <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-500">
-              {{title}}
-          </h1>
-        
-          <!-- <p class="text-md md:text-lg text-center text-white ">Ut enim ad minim veniam, quis nostrud exercitation</p> -->
-  
-          <a href="/rentals" class="mt-6 inline-block bg-white text-black no-underline px-4 py-3 shadow-lg">Find out more</a>
-        </div>
-       
-      </div>
-      <!-- /hero -->
+  {% include "./_includes/partials/lists.html" %}
       
 </div>
 <div>
-  {% include "./_includes/partials/lists.html" %}
-      {% include "./_includes/partials/mapa.html" %}
+  
+      <!-- 2 -->
       {% include "./_includes/partials/content.html" %}
 </div>
