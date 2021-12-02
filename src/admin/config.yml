@@ -22,6 +22,8 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "First image", name: "image", widget: "string" }
+      - { label: "Calendar", name: "calendar", widget: "string" }
+      - { label: "Map", name: "map", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Price per week", name: "price", widget: "string" }
@@ -36,6 +38,12 @@ collections:
         multiple: true
         create: true
         options: ["Nerja centre", "Torrecilla", "Carabeo", "Parador", "Playazo", "Burriana", "Chimenea", "La Noria", "Punta Lara", "Capistrano", "Cortijo de San Rafael"]
+      - widget: select
+        label: "facilities"
+        name: "facilities"
+        multiple: true
+        create: true
+        options: ["Wifi", "swimming pool", "Parking Free", "Airport shuttle"]
   - label: "Settings"
     name: "settings"
     editor:
