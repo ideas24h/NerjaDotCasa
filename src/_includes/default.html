@@ -19,6 +19,7 @@
     <!-- Start of HubSpot Embed Code -->
     <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/1899863.js"></script>
     <!-- End of HubSpot Embed Code -->
+
   </head>
   <body>
 
@@ -28,13 +29,16 @@
 
     {% include "./partials/footer.html" %}
 
-    <script src="/static/js/alpine.js" defer></script>  
+    <script src="/static/js/alpine.js" ></script>
 
     {% if path == "home" %}
       <!-- Netlify Identity Widget -->
       <!-- Needed only if you are using Netlify Identity feature -->
       <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     {% endif %}
+     <!-- alpine JS -->
+     <script defer src="https://unpkg.com/alpinejs@3.2.3/dist/cdn.min.js"></script>
 
+     
   </body>
 </html>
