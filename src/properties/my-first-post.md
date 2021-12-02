@@ -3,6 +3,8 @@ title: Modern 1 bedroom apartment Plaza Cavana Nerja
 description: A lovely 2nd floor property just 100m from the beautiful Balcón de
   Europa in the heart of Nerja.
 image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
+calendar:
+coordenadas:
 author: Nerja Casa
 date: 2020-09-01
 price: From €450
