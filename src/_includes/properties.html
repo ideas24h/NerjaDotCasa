@@ -225,7 +225,10 @@ prism: true
       </div>
         <!-- Description and details -->  
         <div name="Map" class="container">
-              {% include "./partials/mapa.html" %}
-        </div>
-
+          {% if calendar %}  
+            {% include "./partials/mapa.html" %}
+          {% endif  %}
+          </div>
+          {% include "./partials/lists.html" %}
+          
 
