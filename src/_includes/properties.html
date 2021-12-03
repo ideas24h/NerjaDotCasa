@@ -3,80 +3,9 @@ layout: default
 prism: true
 ---
 
-<!-- <div class="container max-w-4xl mt-6  px-6">
-    <div class="pb-5 mb-5 border-b border-gray-100">
-        
 
-
-    </div>
-    
-
-</div> -->
-
-<!--
-  This example requires Tailwind CSS v2.0+ 
-  
-  This example requires some changes to your config:
-  
-  ```
-  // tailwind.config.js
-  module.exports = {
-    // ...
-    theme: {
-      extend: {
-        gridTemplateRows: {
-          '[auto,auto,1fr]': 'auto auto 1fr',
-        },
-      },
-    },
-    plugins: [
-      // ...
-      require('@tailwindcss/aspect-ratio'),
-    ],
-  }
-  ```
--->
 <div class="bg-white">
-
-
     <div class="pt-6">
-
-
-
-      
-<!--       <nav aria-label="Breadcrumb">
-        <ol role="list" class="max-w-2xl mx-auto px-4 flex items-center space-x-2 sm:px-6 lg:max-w-7xl lg:px-8">
-          <li>
-            <div class="flex items-center">
-              <a href="#" class="mr-2 text-sm font-medium text-gray-900">
-                Nerja
-              </a>
-              <svg width="16" height="20" viewBox="0 0 16 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="w-4 h-5 text-gray-300">
-                <path d="M5.697 4.34L8.98 16.532h1.327L7.025 4.341H5.697z" />
-              </svg>
-            </div>
-          </li>
-  
-          <li>
-            <div class="flex items-center">
-              <a href="#" class="mr-2 text-sm font-medium text-gray-900">
-                Rentals
-              </a>
-              <svg width="16" height="20" viewBox="0 0 16 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="w-4 h-5 text-gray-300">
-                <path d="M5.697 4.34L8.98 16.532h1.327L7.025 4.341H5.697z" />
-              </svg>
-            </div>
-          </li>
-  
-          <li class="text-sm">
-            <a href="#" aria-current="page" class="font-medium text-gray-500 hover:text-gray-600">
-              {{title}}
-            </a>
-          </li>
-        </ol>
-      </nav> -->
-
-
       <!-- Product info -->
       <div class="max-w-2xl mx-auto pt-10 pb-16 px-4 sm:px-6 lg:max-w-7xl lg:pt-16 lg:pb-24 lg:px-8 lg:grid lg:grid-cols-3 lg:grid-rows-[auto,auto,1fr] lg:gap-x-8">
         <div class="lg:col-span-2 lg:border-r lg:border-gray-200 lg:pr-8">
@@ -143,53 +72,33 @@ prism: true
               </div> -->
   
               <fieldset class="mt-4">
-                <legend class="sr-only">
-<!--                   Choose a size
- -->                </legend>
-                <div class="grid grid-cols-4 gap-4 sm:grid-cols-8 lg:grid-cols-4">
+
+                <div class="grid grid-cols-3 gap-2 sm:grid-cols-3 lg:grid-cols-3">
                   <!-- Active: "ring-2 ring-indigo-500" -->
   
                   <!-- Active: "ring-2 ring-indigo-500" -->
-                  <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
-                    <input type="radio" name="size-choice" value="XS" class="sr-only" aria-labelledby="size-choice-1-label">
-                    <p id="size-choice-1-label">
-                      {{ beds }} Bed
-                    </p>
+
+                    <div class="bg-indigo-400 text-gray-100 text-center px-3 py-2 rounded">
+                      Beds <span class="bg-gray-200 text-gray-800  px-1 rounded">{{ beds }}</span>
+                    </div>
+                        
   
                     <!--
                       Active: "border", Not Active: "border-2"
                       Checked: "border-indigo-500", Not Checked: "border-transparent"
                     -->
                     <div class="absolute -inset-px rounded-md pointer-events-none" aria-hidden="true"></div>
-                  </label>
-  
+<!--                   </label>
+ -->  
                   <!-- Active: "ring-2 ring-indigo-500" -->
-                  <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
-                    <input type="radio" name="size-choice" value="S" class="sr-only" aria-labelledby="size-choice-2-label">
-                    <p id="size-choice-2-label">
-                      {{baths}} Baths
-                    </p>
-  
-                    <!--
-                      Active: "border", Not Active: "border-2"
-                      Checked: "border-indigo-500", Not Checked: "border-transparent"
-                    -->
-                    <div class="absolute -inset-px rounded-md pointer-events-none" aria-hidden="true"></div>
-                  </label>
-  
+                  <div class="bg-indigo-400 text-gray-100 text-center px-3 py-2 rounded">
+                    Baths <span class="bg-gray-200 text-gray-800 px-1 rounded">{{ baths }}</span>
+                  </div>
+
                   <!-- Active: "ring-2 ring-indigo-500" -->
-                  <label class="group relative border rounded-md py-3 px-4 flex items-center justify-center text-sm font-medium uppercase hover:bg-gray-50 focus:outline-none sm:flex-1 sm:py-6 bg-white shadow-sm text-gray-900 cursor-pointer">
-                    <input type="radio" name="size-choice" value="M" class="sr-only" aria-labelledby="size-choice-3-label">
-                    <p id="size-choice-3-label">
-                      {{ sleeps }} Sleeps
-                    </p>
-  
-                    <!--
-                      Active: "border", Not Active: "border-2"
-                      Checked: "border-indigo-500", Not Checked: "border-transparent"
-                    -->
-                    <div class="absolute -inset-px rounded-md pointer-events-none" aria-hidden="true"></div>
-                  </label>
+                  <div class="bg-indigo-400 text-gray-100 text-center px-3 py-2 rounded">
+                    Sleeps <span class="bg-gray-200 text-gray-800 px-1 rounded">{{ sleeps }}</span>
+                  </div>
   
 
                 </div>
