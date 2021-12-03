@@ -8,7 +8,7 @@ description: A lovely 2nd floor property just 100m from the beautiful Balcón de
   Europa in the heart of Nerja.
 image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
 calendar: "sadf "
-map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.061041071827!2d-3.8797308847116514!3d36.74510587995994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd7225123a60085d%3A0x9da3bc5ec819fc3c!2sPl.%20de%20Cavana%2C%2029780%20Nerja%2C%20M%C3%A1laga!5e0!3m2!1ses!2ses!4v1638481268128!5m2!1ses!2ses
+map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1598.5308742640627!2d-3.8788351480465377!3d36.74508889822571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6a3d86b1e3873547!2zMzbCsDQ0JzQyLjMiTiAzwrA1Mic0MS41Ilc!5e0!3m2!1ses!2ses!4v1638519820802!5m2!1ses!2ses
 author: Nerja Casa
 date: 2020-09-01
 price: From €450
