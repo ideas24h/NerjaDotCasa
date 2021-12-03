@@ -5,7 +5,7 @@
               <div class="responsive-iframe-container big-container">
                   <iframe id="open-web-calendar" 
                   style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
-                  src="https://open-web-calendar.herokuapp.com/calendar.html?url={{ calendar }}&amp;title=Nerja%20Casa&amp;language={{ language }}&amp;loader=&amp;tabs=month"
+                  src="https://open-web-calendar.herokuapp.com/calendar.html?url={{ calendar }}&amp;title=Nerja%20Casa&amp;language={{ language }}&amp;loader=&amp;tabs=no"
                   sandbox="allow-scripts allow-same-origin allow-top-navigation"
                   allowTransparency="true" scrolling="no" 
                   frameborder="0" height="400px" width="100%"></iframe>
@@ -16,11 +16,13 @@
 </div>
 
 <style>
-.dhx_cal_tab.active {   
-    right: auto;
-    left: 136px;
-    display: none;
+.dhx_cal_tab dhx_cal_tab_last month_tab active {   
+  display: none;
 }  
+
+
+ 
+
 </style>
 <script>
     {
