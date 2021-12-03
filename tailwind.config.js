@@ -21,3 +21,6 @@ module.exports = {
   variants: {},
   plugins: [require("@tailwindcss/typography","@tailwindcss/aspect-ratio"),],
 };
+
+/* CSA para slider TAilwind*/
+

@@ -1,12 +1,20 @@
-<section class="mt-15">
-   <div class="container px-5 py-24 mx-auto">
-      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "1899863",
-	formId: "e7988769-3119-462c-bbc9-35d394d7266e"
-});
-</script>
+<div  class="mt-15" x-data={show:false}>
+   <p class="flex">
+
+       <button  @click="show=!show" class="mt-10 w-full bg-indigo-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" type="button">
+         Check Availability
+       </button>
+   </p> 
+   <div x-show="show" class="container px-5 py-12 mx-auto border  text-gray-700">
+      <div class="">
+         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+            <script>
+            hbspt.forms.create({
+               region: "na1",
+               portalId: "1899863",
+               formId: "e7988769-3119-462c-bbc9-35d394d7266e"
+            });
+            </script>
+      </div>
    </div>
-</section>
+</div>

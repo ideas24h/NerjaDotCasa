@@ -61,6 +61,3 @@ body pre[class*="language-"] {
 .month_tab{
   display: none;
 }
-.dhx_cal_tab dhx_cal_tab_last month_tab active {   
-  display: none;
-}  
