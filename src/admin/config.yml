@@ -39,11 +39,17 @@ collections:
         create: true
         options: ["Nerja centre", "Torrecilla", "Carabeo", "Parador", "Playazo", "Burriana", "Chimenea", "La Noria", "Punta Lara", "Capistrano", "Cortijo de San Rafael"]
       - widget: select
-        label: "facilities"
+        label: "Facilities"
         name: "facilities"
         multiple: true
         create: true
-        options: ["Wifi", "swimming pool", "Parking Free", "Airport shuttle"]
+        options: ["Wifi", "Swimming pool", "Sea views", "Street Parking", "Private Parking", "Jacuzzi", "Airport shuttle"]
+      - widget: select
+        label: "Utilities"
+        name: "utilities"
+        multiple: true
+        create: true
+        options: ["Hob", "Oven", "Extractor fan", "microwave", "washing machine", "dishwasher", "fridge/freezer", "kettle", "coffee maker", "toaster", "iron", "ironing board", "equipped kitchen utensils", "cutlery", "crockery"]
   - label: "Settings"
     name: "settings"
     editor:
