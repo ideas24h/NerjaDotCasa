@@ -22,7 +22,7 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-05.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-06.jpg
 sleeps: "2"
-tags:
+location:
   - Nerja centre
 ---
 From 450 € per week

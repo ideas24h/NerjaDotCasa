@@ -17,9 +17,8 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-04.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-05.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-06.jpg
-tags:
-  - Tags
-  - from
+location:
+  - Nerja Centre
 ---
 **3 Bed • 2 Bath • Sleeps 5**
 

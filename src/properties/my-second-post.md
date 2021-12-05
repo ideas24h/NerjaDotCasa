@@ -19,10 +19,8 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-05.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-06.jpg
 sleeps: "4"
-tags:
-  - Torrecilla
+location:
   - Nerja centre
-  - Playazo
 ---
 **Accommodation**
 
