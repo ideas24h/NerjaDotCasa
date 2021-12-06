@@ -24,10 +24,10 @@ collections:
       - { label: "First image", name: "image", widget: "string" }
       - { label: "Calendar", name: "calendar", widget: "string" }
       - { label: "Map", name: "map", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Price per week", name: "price", widget: "string" }
       - { label: "Property code", name: "code", widget: "string" }
+      - { label: "Licence number", name: "licence", widget: "string" }
       - { label: "Bedrooms", name: "beds", widget: "string" }
       - { label: "Bath", name: "baths", widget: "string" }
       - { label: "Sleeps", name: "sleeps", widget: "string" }
