@@ -41,7 +41,6 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-1.jpeg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-2.jpeg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-3.jpeg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-4.jpeg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-5.jpeg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-6.jpeg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-7.jpeg
