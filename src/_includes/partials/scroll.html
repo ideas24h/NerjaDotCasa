@@ -1,9 +1,4 @@
-
-
-
 <style>
-
-
 .gallery {
   position: relative;
   max-width: 800px;
@@ -109,24 +104,12 @@
 </style>
 <div id="paginated_gallery" class="gallery">
   <div class="gallery_scroller">
-    <div class="colored_card">
-      <img src="https://f.hubspotusercontent10.net/hubfs/1899863/images/A0225/image-1.jpg"> </img>
-    </div>
-    <div class="colored_card">
-      <img src="https://f.hubspotusercontent10.net/hubfs/1899863/images/A0225/image-2.jpg"> </img>
-    </div>
-    <div class="colored_card">
-      <img src="https://f.hubspotusercontent10.net/hubfs/1899863/images/A0225/image-3.jpg"> </img>
-    </div>
-    <div class="colored_card">
-      <img src="https://f.hubspotusercontent10.net/hubfs/1899863/images/A0225/image-4.jpg"> </img>
-    </div>
-    <div class="colored_card">
-      <img src="https://f.hubspotusercontent10.net/hubfs/1899863/images/A0225/image-5.jpg"> </img>
-    </div>
-    <div class="colored_card">
-      <img src="https://f.hubspotusercontent10.net/hubfs/1899863/images/A0225/image-6.jpg"> </img>
-    </div>
+    {% for img in images %}
+      <div class="colored_card">
+        <img src="{{ img }}"> </img>
+      </div>
+    {% endfor %}
+    
   </div>
   <span class="btn prev hidden md:block"></span>
   <span class="btn next hidden md:block"></span>
