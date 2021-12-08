@@ -1,12 +1,11 @@
 ---
-baths: "1"
 facilities:
   - Wifi
 mapa: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12788.311486381348!2d-4.873049299099384!3d36.763501465040996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x407d7b6ea3171f50!2zMzbCsDQ0JzQwLjkiTiAzwrA1MycwNC41Ilc!5e0!3m2!1ses!2ses!4v1638477346884!5m2!1ses!2ses
 title: Modern 1 bedroom apartment Plaza Cavana Nerja
 description: A lovely 2nd floor property just 100m from the beautiful Balcón de
   Europa in the heart of Nerja.
-image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
+image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-1.jpg
 calendar: "sadf "
 map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1598.5308742640627!2d-3.8788351480465377!3d36.74508889822571!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6a3d86b1e3873547!2zMzbCsDQ0JzQyLjMiTiAzwrA1Mic0MS41Ilc!5e0!3m2!1ses!2ses!4v1638519820802!5m2!1ses!2ses
 author: Nerja Casa
@@ -14,13 +13,25 @@ date: 2020-09-01
 price: From €450
 code: A0155
 beds: "1"
+baths: "1"
 images:
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-03.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-04.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-05.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-06.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-1.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-2.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-3.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-4.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-5.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-6.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-7.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-8.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-9.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-10.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-11.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-12.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-13.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-14.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-15.jpg
+
+nimages: 4
 sleeps: "2"
 location:
   - Nerja centre
