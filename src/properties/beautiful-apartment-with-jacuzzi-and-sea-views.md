@@ -4,7 +4,7 @@ description: Fantastic 1 bedroom apartment with private jacuzzi and spectacular
   sea and mountains views. The property is located in the popular Urbanisation
   San Juan de Capistrano with access to large communal pool.*Max. occupancy is 4
   people (sofa bed can be set up on prior request)
-image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-1.jpeg
+image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A9711/image-1.jpg
 calendar: https://calendar.google.com/calendar/ical/c_qam6l43p7lm4m7n7n4ppg7f228%40group.calendar.google.com/public/basic.ics
 map: https://www.google.es/maps/place/C.+Capuchinos,+62,+29780+Nerja,+M%C3%A1laga/@36.7670204,-3.871159,17z/data=!3m1!4b1!4m5!3m4!1s0xd7224fec5453be3:0xbd1ef544323ede4f!8m2!3d36.7670204!4d-3.8689703
 date: 2021-12-06T19:09:22.052Z

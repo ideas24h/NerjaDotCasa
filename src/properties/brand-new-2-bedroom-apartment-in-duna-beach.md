@@ -4,7 +4,7 @@ description: A stunning, new 2 bedroom apartment located on the Beach front.
   Edificio Duna Beach is a brand new development with amazing pool area with
   built in sunbeds and Gym, just few steps from the beach. Internet and air
   conditioning are included in the rental price.
-image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A9939/image-1.webp
+image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A9939/image-1.jpg
 calendar: https://calendar.google.com/calendar/ical/c_16jki7lo4tcjk241v1d53qid04%40group.calendar.google.com/public/basic.ics
 map: https://www.google.es/maps/place/Residencial+Duna+Beach/@36.7376417,-3.9901197,17z/data=!3m1!4b1!4m8!3m7!1s0xd723b310c07a721:0x4f8227a8f1e3ad1c!5m2!4m1!1i2!8m2!3d36.7376813!4d-3.9879129
 author: Raúl

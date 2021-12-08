@@ -3,7 +3,7 @@ title: Townhouse with private Jacuzzi and sea views
 description: Amazing 3 bedroom townhouse  with private Jacuzzi on Calle
   Carabeo.  Uninterrupted sea views as well as 360º views over Nerja and the
   mountains.  *Jacuzzi available from Oct-March*
-image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0225/image-1.jpeg
+image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0225/image-1.jpg
 calendar: https://calendar.google.com/calendar/ical/c_7tt8555v0q30967ma29pj70ejg%40group.calendar.google.com/public/basic.ics
 map: https://www.google.es/maps/place/C.+Hernando+de+Carabeo,+64,+29780+Nerja,+M%C3%A1laga/@36.7468191,-3.8753053,17z/data=!3m1!4b1!4m5!3m4!1s0xd72250e8816792b:0x38e71775817975a3!8m2!3d36.7468191!4d-3.8731166
 author: Mica
