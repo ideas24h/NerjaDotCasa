@@ -11,14 +11,34 @@ author: Nerja Casa
 date: 2020-09-01
 price: From 950 € per week
 images:
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-1.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-2.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-3.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-4.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-5.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-6.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-1.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-2.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-3.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-4.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-5.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-6.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-7.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-8.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-9.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-10.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-11.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-12.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-13.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-14.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-15.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-16.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-17.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-18.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-19.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-20.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-21.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-22.jpg
 location:
   - Nerja Centre
+beds: "3"
+baths: "2"
+sleeps: "5"
+
 ---
 **3 Bed • 2 Bath • Sleeps 5**
 
