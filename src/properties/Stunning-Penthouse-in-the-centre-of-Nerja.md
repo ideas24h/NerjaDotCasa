@@ -6,17 +6,17 @@ description: A stunning 3 bedroom penthouse in the centre of Nerja. Private roof
   Private underground parking with lift to the front door. High speed Internet
   and Air conditioning (in each room) included in the rental price  ** Ideal for
   5 people, maximum occupancy 6 people**
-image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image01.jpg
+image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-1.jpg
 author: Nerja Casa
 date: 2020-09-01
 price: From 950 € per week
 images:
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-01.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-02.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-03.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-04.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-05.jpg
-  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-06.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-1.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-2.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-3.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-4.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-5.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0155/image-6.jpg
 location:
   - Nerja Centre
 ---
