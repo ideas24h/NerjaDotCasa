@@ -11,6 +11,7 @@ price: From €650
 code: A0123
 beds: "2"
 baths: "1"
+sleeps: "4"
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-01.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-02.jpg
@@ -18,7 +19,6 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-04.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-05.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-06.jpg
-sleeps: "4"
 location:
   - Nerja centre
 ---
