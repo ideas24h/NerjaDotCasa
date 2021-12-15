@@ -3,7 +3,7 @@ title: Perfect Family Apartment in Acapulco Playa
 description: A lovely 2nd floor property just 100m from the beautiful Balcón de
   Europa in the heart of Nerja.
 language: en
-image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A/image07.jpg
+image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A1046/image07.jpg
 calendar: https://calendar.google.com/calendar/ical/c_8itj9vbtscm4v90drd6nvl7jio%40group.calendar.google.com/public/basic.ics
 author: Nerja Casa
 date: 2020-09-01
