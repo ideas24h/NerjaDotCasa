@@ -37,7 +37,7 @@ collections:
         name: "location"
         multiple: false
         create: true
-        options: ["Nerja centre", "Torrecilla", "Carabeo", "Parador", "Playazo", "Burriana", "Chimenea", "La Noria", "Punta Lara", "Capistrano", "Cortijo de San Rafael"]
+        options: ["Nerja centre", "Torrecilla", "Carabeo", "Parador", "Playazo", "Burriana", "Chimenea", "La Noria", "Punta Lara", "Capistrano", "Cortijo de San Rafael", "Torrox Costa", "Torrox", "Frigiliana"]
       - widget: select
         label: "Facilities"
         name: "facilities"

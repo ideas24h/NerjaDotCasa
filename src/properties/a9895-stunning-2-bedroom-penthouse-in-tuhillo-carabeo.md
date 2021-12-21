@@ -6,7 +6,7 @@ description: Amazing 2 bedroom penthouse in the much sought after area of Calle
   and the Mediterranean Sea. The nearest beach is just a couple of minutes walk
   away as well as the famous Balcon de Europa. High speed Internet and Air
   conditioning is included in the rental price.  ** Maximum occupancy 4 people**
-image: https://f.hubspotusercontent10.net/hubfs/1899863/images/R9895/image-2.jpg
+image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A9895/image-2.jpg
 calendar: https://calendar.google.com/calendar/ical/c_t966aolf4khdrn6ciq7pr55jvg%40group.calendar.google.com/public/basic.ics
 map: https://www.google.es/maps/search/tuhillo+nerja/@36.7484666,-3.8731258,17z/data=!3m1!4b1
 date: 2021-12-21T11:39:45.152Z

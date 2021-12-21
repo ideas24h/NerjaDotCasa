@@ -8,8 +8,10 @@ description: A stunning 3 bedroom penthouse in the centre of Nerja. Private roof
   5 people, maximum occupancy 6 people**
 image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-1.jpg
 author: Nerja Casa
+code: A0123
 date: 2020-09-01
 price: From 950 € per week
+calendar: https://calendar.google.com/calendar/ical/c_58aiedl7n5k9t56l39d2rn75d0%40group.calendar.google.com/public/basic.ics
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-1.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0123/image-2.jpg

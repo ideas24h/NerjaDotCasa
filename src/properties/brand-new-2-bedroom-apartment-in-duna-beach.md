@@ -16,7 +16,7 @@ beds: "2"
 baths: "2"
 sleeps: "4"
 location:
-  - Nerja centre
+  - Torrox Costa
 facilities:
   - Wifi
   - Swimming pool
