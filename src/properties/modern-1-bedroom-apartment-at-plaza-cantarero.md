@@ -15,6 +15,37 @@ beds: "1"
 baths: "1"
 sleeps: "2"
 location: Nerja centre
+images:
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-1.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-2.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-3.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-4.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-5.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-6.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-7.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-8.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-9.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-10.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-11.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-12.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-13.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-14.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-15.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-16.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-17.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-18.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-19.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-20.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-21.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-22.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-23.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-24.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-25.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-26.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-27.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-28.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-29.jpg
+  - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9726/image-30.jpg
 facilities:
   - Wifi
   - Swimming pool
