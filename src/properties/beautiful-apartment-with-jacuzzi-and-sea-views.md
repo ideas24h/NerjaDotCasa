@@ -10,7 +10,7 @@ map: https://www.google.es/maps/place/C.+Capuchinos,+62,+29780+Nerja,+M%C3%A1lag
 date: 2021-12-06T19:09:22.052Z
 price: From €500
 code: A9711
-license: VFT/MA/41388
+licence: VFT/MA/41388
 beds: "1"
 baths: "1"
 sleeps: "2"

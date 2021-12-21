@@ -12,7 +12,7 @@ map: https://www.google.es/maps/search/tuhillo+nerja/@36.7484666,-3.8731258,17z/
 date: 2021-12-21T11:39:45.152Z
 price: From €685 per Week
 code: A9895
-license: VFT/MA/08316
+licence: VFT/MA/08316
 beds: "2"
 baths: "1"
 sleeps: "4"

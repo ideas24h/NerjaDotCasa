@@ -11,7 +11,7 @@ map: https://www.google.es/maps/place/Urb.+Alamar+II,+2,+29780+Nerja,+M%C3%A1lag
 date: 2021-12-21T12:46:26.759Z
 price: "From €900 "
 code: A9986
-license: VFT/MA/40653
+licence: VFT/MA/40653
 beds: "4"
 baths: "2"
 sleeps: "8"

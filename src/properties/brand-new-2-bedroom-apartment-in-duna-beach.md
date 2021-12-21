@@ -11,6 +11,7 @@ author: Raúl
 date: 2021-12-01T09:42:27.731Z
 price: From €550
 code: A9939
+licence: VFT/MA/41236
 beds: "2"
 baths: "2"
 sleeps: "4"
