@@ -12,7 +12,7 @@ map: https://www.google.es/maps/search/capistrano+playa+/@36.7526244,-3.867292,1
 date: 2021-12-21T12:53:58.210Z
 price: From €620
 code: A1061
-licence: VFT/MA/02009
+license: VFT/MA/02009
 beds: "2"
 baths: "2"
 sleeps: "4"

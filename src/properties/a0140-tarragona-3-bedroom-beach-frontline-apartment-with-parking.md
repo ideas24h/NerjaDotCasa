@@ -11,7 +11,7 @@ map: https://www.google.es/maps/place/Tarragona/@36.7507885,-3.8704138,17z/data=
 date: 2021-12-21T12:15:57.370Z
 price: From €1000 per Week
 code: A0140
-licence: VFT/MA/04696
+license: VFT/MA/04696
 beds: "3"
 baths: "2"
 sleeps: "6"
