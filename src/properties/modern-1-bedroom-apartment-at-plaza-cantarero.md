@@ -10,7 +10,7 @@ map: https://www.google.es/maps/place/Av.+Ciudad+de+Pescia,+4,+29780+Nerja,+M%C3
 date: 2021-12-21T13:01:02.325Z
 price: From €450
 code: A9726
-licence: CTC-2016164281
+license: CTC-2016164281
 beds: "1"
 baths: "1"
 sleeps: "2"
