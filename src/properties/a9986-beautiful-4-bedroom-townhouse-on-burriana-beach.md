@@ -105,6 +105,6 @@ Toilet, built in sink and mirror
 
 Check-in 4 pm
 
-Check-out 4 pm
+Check-out 10 am
 
 \*No smoking, No Pets, No young groups under 25 years old
