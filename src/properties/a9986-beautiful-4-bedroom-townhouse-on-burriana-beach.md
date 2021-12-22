@@ -1,5 +1,5 @@
 ---
-title: A9986 Beautiful 4 bedroom Townhouse on Burriana Beach
+title: " Beautiful 4 bedroom Townhouse on Burriana Beach"
 description: Beautiful designed 4 bedroom townhouse a stone throw away from
   Burriana beach with bars, restaurants and small shops. A ideal property for
   families or friends to enjoy a holiday close to the Beach. The property has
@@ -16,6 +16,25 @@ beds: "4"
 baths: "2"
 sleeps: "8"
 location: Burriana
+facilities:
+  - Wifi
+  - Swimming pool
+utilities:
+  - Hob
+  - Oven
+  - Extractor fan
+  - microwave
+  - washing machine
+  - dishwasher
+  - fridge/freezer
+  - kettle
+  - coffee maker
+  - toaster
+  - iron
+  - ironing board
+  - equipped kitchen utensils
+  - cutlery
+  - crockery
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9896/image-1.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9896/image-2.jpg
@@ -47,25 +66,6 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9896/image-28.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9896/image-29.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9896/image-30.jpg
-facilities:
-  - Wifi
-  - Swimming pool
-utilities:
-  - Hob
-  - Oven
-  - Extractor fan
-  - microwave
-  - washing machine
-  - dishwasher
-  - fridge/freezer
-  - kettle
-  - coffee maker
-  - toaster
-  - iron
-  - ironing board
-  - equipped kitchen utensils
-  - cutlery
-  - crockery
 ---
 ### Accommodation
 
