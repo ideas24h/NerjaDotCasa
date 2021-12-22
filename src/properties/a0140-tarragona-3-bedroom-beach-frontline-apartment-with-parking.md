@@ -1,5 +1,5 @@
 ---
-title: A0140 Tarragona 3 bedroom beach frontline apartment with parking
+title: 3 bedroom beach frontline apartment with parking
 description: A stylish 3 bedroom frontline apartment located on Burriana Beach
   with private parking space. The apartment offers outstanding views to the sea
   and beach promenade from the large south facing terrace. The apartment is well
@@ -15,6 +15,26 @@ licence: VFT/MA/04696
 beds: "3"
 baths: "2"
 sleeps: "6"
+location: Burriana
+facilities:
+  - Private Parking
+  - Sea views
+utilities:
+  - Hob
+  - Oven
+  - Extractor fan
+  - microwave
+  - washing machine
+  - dishwasher
+  - fridge/freezer
+  - kettle
+  - coffee maker
+  - toaster
+  - iron
+  - ironing board
+  - equipped kitchen utensils
+  - cutlery
+  - crockery
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0140/image-1.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0140/image-2.jpg
@@ -46,26 +66,6 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0140/image-28.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0140/image-29.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A0140/image-30.jpg
-location: Burriana
-facilities:
-  - Private Parking
-  - Sea views
-utilities:
-  - Hob
-  - Oven
-  - Extractor fan
-  - microwave
-  - washing machine
-  - dishwasher
-  - fridge/freezer
-  - kettle
-  - coffee maker
-  - toaster
-  - iron
-  - ironing board
-  - equipped kitchen utensils
-  - cutlery
-  - crockery
 ---
 ### The space
 
