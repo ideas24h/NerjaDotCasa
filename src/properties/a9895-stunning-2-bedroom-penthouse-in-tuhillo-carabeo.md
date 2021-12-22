@@ -1,5 +1,5 @@
 ---
-title: A9895 Stunning 2 bedroom penthouse in Tuhillo, Carabeo
+title: Stunning 2 bedroom penthouse in Tuhillo, Carabeo
 description: Amazing 2 bedroom penthouse in the much sought after area of Calle
   Carabeo. Located in the well known development Edificio Tuhillo with stunning
   views from the private terrace overlooking the communal gardens, shared pool
@@ -17,6 +17,26 @@ beds: "2"
 baths: "1"
 sleeps: "4"
 location: Nerja centre
+facilities:
+  - Sea views
+  - Wifi
+  - Swimming pool
+utilities:
+  - Hob
+  - Oven
+  - Extractor fan
+  - microwave
+  - washing machine
+  - dishwasher
+  - fridge/freezer
+  - kettle
+  - coffee maker
+  - toaster
+  - iron
+  - ironing board
+  - equipped kitchen utensils
+  - cutlery
+  - crockery
 images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9895/image-1.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9895/image-2.jpg
@@ -48,26 +68,6 @@ images:
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9895/image-28.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9895/image-29.jpg
   - https://f.hubspotusercontent10.net/hubfs/1899863/images/A9895/image-30.jpg
-facilities:
-  - Sea views
-  - Wifi
-  - Swimming pool
-utilities:
-  - Hob
-  - Oven
-  - Extractor fan
-  - microwave
-  - washing machine
-  - dishwasher
-  - fridge/freezer
-  - kettle
-  - coffee maker
-  - toaster
-  - iron
-  - ironing board
-  - equipped kitchen utensils
-  - cutlery
-  - crockery
 ---
 ### The space
 
