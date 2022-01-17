@@ -6,7 +6,7 @@ description: A stylish 3 bedroom frontline apartment located on Burriana Beach
   furnished to a high standard with high speed internet and air
   conditioning.  **Occupancy max. 6 people**
 image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0140/image-01.jpg
-calendar: https://calendar.google.com/calendar/ical/c_tkvmcio7srvh94r1v8jaio7h04%40group.calendar.google.com/public/basic.ics
+calendar: https://calendar.google.com/calendar/ical/c_7r7pmva1bt2t8r5ai68k210mko%40group.calendar.google.com/public/basic.ics
 map: https://www.google.es/maps/place/Tarragona/@36.7507885,-3.8704138,17z/data=!3m1!4b1!4m5!3m4!1s0xd722501cdf27cc1:0x53bdc6391368bdfc!8m2!3d36.7506585!4d-3.8681241
 date: 2021-12-21T12:15:57.370Z
 price: From €1000 per Week
