@@ -1,11 +1,12 @@
 ---
-title: Stunning 2 bedroom penthouse in Tuhillo, Carabeo
+title: Stunning 2 bedroom penthouse in Tuhillo, Parador Carabeo
 description: Amazing 2 bedroom penthouse in the much sought after area of Calle
-  Carabeo. Located in the well known development Edificio Tuhillo with stunning
-  views from the private terrace overlooking the communal gardens, shared pool
-  and the Mediterranean Sea. The nearest beach is just a couple of minutes walk
-  away as well as the famous Balcon de Europa. High speed Internet and Air
-  conditioning is included in the rental price.  ** Maximum occupancy 4 people**
+  Carabeo Parador. Located in the well known development Edificio Tuhillo
+  Parador with stunning views from the private terrace overlooking the communal
+  gardens, shared pool and the Mediterranean Sea. The nearest beach is just a
+  couple of minutes walk away as well as the famous Balcon de Europa. High speed
+  Internet and Air conditioning is included in the rental price.  ** Maximum
+  occupancy 4 people**
 image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A9895/image-2.jpg
 calendar: https://calendar.google.com/calendar/ical/c_t966aolf4khdrn6ciq7pr55jvg%40group.calendar.google.com/public/basic.ics
 map: https://www.google.es/maps/search/tuhillo+nerja/@36.7484666,-3.8731258,17z/data=!3m1!4b1
@@ -16,7 +17,7 @@ licence: VFT/MA/08316
 beds: "2"
 baths: "1"
 sleeps: "4"
-location: Nerja centre
+location: Parador
 facilities:
   - Sea views
   - Wifi
@@ -71,7 +72,7 @@ images:
 ---
 ### The space
 
-This beautiful apartment is aproached via a communal entrance gate and steps to the third floor (no lift). The penthouse is spacious, modern and bright. A large cosy lounge with sliding doors to the south facing terrace. A mdern open plan kitchen, fully equipped to a very high standard. Two bedrooms and one family bathroom.\
+This beautiful apartment is approached via a communal entrance gate and steps to the third floor (no lift). The penthouse is spacious, modern and bright. A large cosy lounge with sliding doors to the south facing private terrace. A modern open plan kitchen, fully equipped to a very high standard. Two bedrooms and one family bathroom.\
 \
 Outside:\
 Communal pool and garden\
