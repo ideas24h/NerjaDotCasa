@@ -1,1 +1,1 @@
-redirectMatch 301 ^(.*)$ http://dominiodeejemplo.com$1
+redirectMatch 301 ^(.*)$ https://www.nerja.holiday/$1
