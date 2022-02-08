@@ -8,7 +8,12 @@
   force = true
 [[redirects]]
   from = "https://nerja.casa"
-  to = "https://nerja.holiday"
+  to = "https://www.nerja.holiday"
+  status = 301
+  force = true
+[[redirects]]
+  from = "http://nerja.casa"
+  to = "https://www.nerja.holiday"
   status = 301
   force = true
 [[redirects]]
