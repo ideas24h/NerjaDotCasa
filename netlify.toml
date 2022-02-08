@@ -1,3 +1,48 @@
 [build]
   publish = "_site"
   command = "npm run build"
+[[redirects]]
+  from = "https://www.nerja.casa"
+  to = "https://www.nerja.holiday"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://nerja.casa"
+  to = "https://www.nerja.holiday"
+  status = 301
+  force = true
+[[redirects]]
+  from = "http://nerja.casa"
+  to = "https://www.nerja.holiday"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.nerja.casa/properties/a0140-tarragona-3-bedroom-beach-frontline-apartment-with-parking/"
+  to = "https://www.nerja.holiday/properties/a0140-tarragona-3-bedroom-beach-frontline-apartment-with-parking/"
+  status = 301
+  force = true
+[[redirects]]
+  from ="https://www.nerja.casa/properties/a9895-stunning-2-bedroom-penthouse-in-tuhillo-carabeo/"
+  to ="https://www.nerja.holiday/properties/a9895-stunning-2-bedroom-penthouse-in-tuhillo-carabeo/"
+  status = 301
+  force = true
+[[redirects]]
+  from ="https://www.nerja.casa/properties/amazing-2-bedroom-duplex-apartment-with-sea-views/"
+  to = "https://www.nerja.holiday/properties/amazing-2-bedroom-duplex-apartment-with-sea-views/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.nerja.casa/properties/beautiful-apartment-with-jacuzzi-and-sea-views/"
+  to = "https://www.nerja.holiday/properties/beautiful-apartment-with-jacuzzi-and-sea-views/"
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.nerja.casa/properties/a0140-tarragona-3-bedroom-beach-frontline-apartment-with-parking/"
+  to = "https://www.nerja.holiday/properties/a0140-tarragona-3-bedroom-beach-frontline-apartment-with-parking/"  
+  status = 301
+  force = true
+[[redirects]]
+  from = "https://www.nerja.casa/properties/amazing-2-bedroom-duplex-apartment-with-sea-views/"
+  to = "https://www.nerja.holiday/properties/amazing-2-bedroom-duplex-apartment-with-sea-views/" 
+  status = 301
+  force = true
