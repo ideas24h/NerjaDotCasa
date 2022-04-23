@@ -9,7 +9,7 @@ image: https://f.hubspotusercontent10.net/hubfs/1899863/images/A0140/image-01.jp
 calendar: https://calendar.google.com/calendar/ical/c_7r7pmva1bt2t8r5ai68k210mko%40group.calendar.google.com/public/basic.ics
 map: https://www.google.es/maps/place/Tarragona/@36.7507885,-3.8704138,17z/data=!3m1!4b1!4m5!3m4!1s0xd722501cdf27cc1:0x53bdc6391368bdfc!8m2!3d36.7506585!4d-3.8681241
 date: 2021-12-21T12:15:57.370Z
-price: From €1000 per Week
+price: From €2000 per Week
 code: A0140
 licence: VFT/MA/04696
 beds: "3"
